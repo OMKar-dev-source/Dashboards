@@ -1,4 +1,4 @@
-# Dashboards
+# Dashboard
 **Call center - Data-Analysis( Interactive Dashboard Creation Using Power BI)**
 **Objective**
 This dataset captures operational and performance-related data from a call center. It provides insights into customer interactions, agent efficiency, and service quality. The dataset can be used to analyze response times, customer satisfaction, and call resolution rates, offering valuable information for optimizing call center performance and enhancing customer experience.
